@@ -1,0 +1,6 @@
+@Dpl.CartApi_HostAddress = http://localhost:5082
+
+GET {{Dpl.CartApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

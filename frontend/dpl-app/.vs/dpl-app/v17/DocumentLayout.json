@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\2019\\frontend\\dpl-app\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\2019\\frontend\\dpl-app\\src\\components\\Products\\ProductForm.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\Products\\ProductForm.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\2019\\frontend\\dpl-app\\src\\dtos\\ProductDto.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\dtos\\ProductDto.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\2019\\frontend\\dpl-app\\src\\App.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\App.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\2019\\frontend\\dpl-app\\src\\contexts\\CartContext.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\contexts\\CartContext.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\2019\\frontend\\dpl-app\\src\\contexts\\AuthContext.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\contexts\\AuthContext.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\2019\\frontend\\dpl-app\\src\\components\\Cart\\Cart.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\Cart\\Cart.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\2019\\frontend\\dpl-app\\src\\components\\Products\\ProductGrid.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\Products\\ProductGrid.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\2019\\frontend\\dpl-app\\src\\components\\Auth\\Login.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\Auth\\Login.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\2019\\frontend\\dpl-app\\src\\services\\api.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\services\\api.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductDto.ts",
+              "DocumentMoniker": "D:\\2019\\frontend\\dpl-app\\src\\dtos\\ProductDto.ts",
+              "RelativeDocumentMoniker": "src\\dtos\\ProductDto.ts",
+              "ToolTip": "D:\\2019\\frontend\\dpl-app\\src\\dtos\\ProductDto.ts",
+              "RelativeToolTip": "src\\dtos\\ProductDto.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-05-24T04:26:55.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.tsx",
+              "DocumentMoniker": "D:\\2019\\frontend\\dpl-app\\src\\App.tsx",
+              "RelativeDocumentMoniker": "src\\App.tsx",
+              "ToolTip": "D:\\2019\\frontend\\dpl-app\\src\\App.tsx",
+              "RelativeToolTip": "src\\App.tsx",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAkwDoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-05-24T04:12:39.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Cart.tsx",
+              "DocumentMoniker": "D:\\2019\\frontend\\dpl-app\\src\\components\\Cart\\Cart.tsx",
+              "RelativeDocumentMoniker": "src\\components\\Cart\\Cart.tsx",
+              "ToolTip": "D:\\2019\\frontend\\dpl-app\\src\\components\\Cart\\Cart.tsx",
+              "RelativeToolTip": "src\\components\\Cart\\Cart.tsx",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAkwCoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-05-24T04:12:04.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductGrid.tsx",
+              "DocumentMoniker": "D:\\2019\\frontend\\dpl-app\\src\\components\\Products\\ProductGrid.tsx",
+              "RelativeDocumentMoniker": "src\\components\\Products\\ProductGrid.tsx",
+              "ToolTip": "D:\\2019\\frontend\\dpl-app\\src\\components\\Products\\ProductGrid.tsx",
+              "RelativeToolTip": "src\\components\\Products\\ProductGrid.tsx",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAkwEEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-05-24T04:11:19.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductForm.tsx",
+              "DocumentMoniker": "D:\\2019\\frontend\\dpl-app\\src\\components\\Products\\ProductForm.tsx",
+              "RelativeDocumentMoniker": "src\\components\\Products\\ProductForm.tsx",
+              "ToolTip": "D:\\2019\\frontend\\dpl-app\\src\\components\\Products\\ProductForm.tsx",
+              "RelativeToolTip": "src\\components\\Products\\ProductForm.tsx",
+              "ViewState": "AQIAAAYAAAAAAAAAAAA5wA0AAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-05-24T04:09:15.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Login.tsx",
+              "DocumentMoniker": "D:\\2019\\frontend\\dpl-app\\src\\components\\Auth\\Login.tsx",
+              "RelativeDocumentMoniker": "src\\components\\Auth\\Login.tsx",
+              "ToolTip": "D:\\2019\\frontend\\dpl-app\\src\\components\\Auth\\Login.tsx",
+              "RelativeToolTip": "src\\components\\Auth\\Login.tsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-05-24T04:08:19.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CartContext.tsx",
+              "DocumentMoniker": "D:\\2019\\frontend\\dpl-app\\src\\contexts\\CartContext.tsx",
+              "RelativeDocumentMoniker": "src\\contexts\\CartContext.tsx",
+              "ToolTip": "D:\\2019\\frontend\\dpl-app\\src\\contexts\\CartContext.tsx",
+              "RelativeToolTip": "src\\contexts\\CartContext.tsx",
+              "ViewState": "AQIAABwAAAAAAAAAAAAkwDkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-05-24T04:07:06.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthContext.tsx",
+              "DocumentMoniker": "D:\\2019\\frontend\\dpl-app\\src\\contexts\\AuthContext.tsx",
+              "RelativeDocumentMoniker": "src\\contexts\\AuthContext.tsx",
+              "ToolTip": "D:\\2019\\frontend\\dpl-app\\src\\contexts\\AuthContext.tsx",
+              "RelativeToolTip": "src\\contexts\\AuthContext.tsx",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAkwCkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-05-24T04:05:32.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "api.ts",
+              "DocumentMoniker": "D:\\2019\\frontend\\dpl-app\\src\\services\\api.ts",
+              "RelativeDocumentMoniker": "src\\services\\api.ts",
+              "ToolTip": "D:\\2019\\frontend\\dpl-app\\src\\services\\api.ts",
+              "RelativeToolTip": "src\\services\\api.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-05-24T04:03:25.642Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
