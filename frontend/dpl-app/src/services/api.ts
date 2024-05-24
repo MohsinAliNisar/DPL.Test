@@ -10,8 +10,21 @@ const api = axios.create({
     },
 });
 
-export const login = (username: string, password: string, userType: string) => {
-    return api.post('/auth/login', { username, password, userType });
+export const login = async (username: string, password: string, userType: string) => {
+    
+    try {
+        const response = await api.post('/auth/login', { username, password, userType });
+        console.log(response.data);
+        return response.data;
+    } catch (error) {
+        if (axios.isAxiosError(error)) {
+            console.error('Error response:', error.response);
+        } else {
+            console.error('Unexpected error:', error);
+        }
+        throw error; // Re-throw the error if you want to handle it in the calling function
+    }
+ 
 };
 
 export const getProducts = () => {
